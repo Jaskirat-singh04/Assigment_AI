@@ -10,7 +10,7 @@ from langchain.prompts import PromptTemplate
 
 
 
-GOOGLE_API_KEY = 'AIzaSyDkk8g31MhGz66G6Ng5qiHpIFmLGfYbhRQ'  # Your Google API key
+GOOGLE_API_KEY = ''  # Your Google API key
 prompt_template = """
     You are an AI assistant. Your primary goal is to provide support and assistance to users based on extracted context    
     Context : \n {context} \n    
